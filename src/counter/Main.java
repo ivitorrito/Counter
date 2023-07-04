@@ -29,7 +29,7 @@ public class Main {
     public String Oid3 = " 1.3.6.1.2.1.43.5.1.1.17.1";
     public String negro = ".1.3.6.1.4.1.18334.1.1.1.5.7.2.2.1.5.1.1";
     public String negroP = ".1.3.6.1.4.1.18334.1.1.1.5.7.2.2.1.5.1.2";
-    public String Ricoh = ".1.3.6.1.4.1.367.3.2.1.2.19.1.0";
+    public String Ricoh = "1.3.6.1.4.1.11.2.3.9.4.2.1.4.1.2.7.0";
     /*
 
     */
